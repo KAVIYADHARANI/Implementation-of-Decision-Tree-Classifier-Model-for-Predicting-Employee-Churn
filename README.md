@@ -75,6 +75,9 @@ dt.predict([[0.5,0.8,9,260,6,0,1,2]])
 
 ![318630486-a6d85076-d39f-4a37-9cc7-4faa482709b6](https://github.com/user-attachments/assets/d90f57fc-59eb-4f16-9dae-23e8401f3549)
 
+## data.value.counts()
+![image](https://github.com/user-attachments/assets/8844545f-abcd-493e-80dd-3b6b50eae34b)
+
 ## x.head()
 ![318630552-af19bc4f-4230-42f7-9607-63bb491ecb2f](https://github.com/user-attachments/assets/5ee6b2c5-e6c7-43e1-b872-bad8bd1415a4)
 
